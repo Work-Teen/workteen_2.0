@@ -1,0 +1,12 @@
+<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCf2lILKWq2xxXsqnA3CE5aKQOaxIDSayc",
+    authDomain: "workteenbot.firebaseapp.com",
+    databaseURL: "https://workteenbot.firebaseio.com",
+    storageBucket: "workteenbot.appspot.com",
+    messagingSenderId: "24984567089"
+  };
+  firebase.initializeApp(config);
+</script>
